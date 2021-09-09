@@ -1,4 +1,6 @@
 ### Portfolio of
-# DR. RENU GARG
-
-* Check it out here : https://all-about-dr-renu.netlify.app/
+## DR. RENU GARG
+![Winner ss](winner.png)
+* Made this project for @MLHacks weekend Hackathon o Teachers' Day (Teachers Hack) and won the 'New Classmate Hack' prize
+* Checkout the winning submission on Devpost: https://devpost.com/software/all-about-dr-renu-garg
+* Check out the hosted website here : https://all-about-dr-renu.netlify.app/
