@@ -2,6 +2,6 @@
 ## DR. RENU GARG
 <img src="winner.png" alt="winner ss" width="200"/>
 
-> #### Made this project for <strong>@MLHacks</strong> weekend Hackathon on Teachers' Day (Teachers Hack) and won the **'New Classmate Hack'** prize
+#### Made this project for _@MLHacks_ weekend Hackathon on Teachers' Day (Teachers Hack) and won the **'New Classmate Hack'** prize
 ###### Checkout the **winning submission** on Devpost: https://devpost.com/software/all-about-dr-renu-garg
 ###### Check out the hosted website here : https://all-about-dr-renu.netlify.app/
